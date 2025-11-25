@@ -1,0 +1,5 @@
+{
+  "name": "Japanese Sentence Analyzer",
+  "description": "An AI-powered Japanese sentence analyzer for Chinese learners, featuring POS tagging, Romaji/Furigana generation, and sentence translation using Gemini 2.5.",
+  "requestFramePermissions": []
+}
